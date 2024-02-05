@@ -1,0 +1,38 @@
+title: KH 2.8 Art Title Screen
+description: Title screen replacement with the Kingdom Hearts 2.8 collection art.
+assets:
+#Title Screen
+- name: remastered\menu\en\title\title\bin\title_n.l2d\US_illust.png
+  multi: 
+  - name: remastered\menu\de\title\title\bin\title_n.l2d\US_illust.png
+  - name: remastered\menu\es\title\title\bin\title_n.l2d\US_illust.png
+  - name: remastered\menu\fr\title\title\bin\title_n.l2d\US_illust.png
+  - name: remastered\menu\it\title\title\bin\title_n.l2d\US_illust.png
+  - name: remastered\menu\en\title\title\bin\title_n.l2d\FR_illust.png
+  - name: remastered\menu\de\title\title\bin\title_n.l2d\FR_illust.png
+  - name: remastered\menu\es\title\title\bin\title_n.l2d\FR_illust.png
+  - name: remastered\menu\fr\title\title\bin\title_n.l2d\FR_illust.png
+  - name: remastered\menu\it\title\title\bin\title_n.l2d\FR_illust.png
+  - name: remastered\menu\en\title\title\bin\title_n.l2d\GR_illust.png
+  - name: remastered\menu\de\title\title\bin\title_n.l2d\GR_illust.png
+  - name: remastered\menu\es\title\title\bin\title_n.l2d\GR_illust.png
+  - name: remastered\menu\fr\title\title\bin\title_n.l2d\GR_illust.png
+  - name: remastered\menu\it\title\title\bin\title_n.l2d\GR_illust.png
+  - name: remastered\menu\en\title\title\bin\title_n.l2d\IT_illust.png
+  - name: remastered\menu\de\title\title\bin\title_n.l2d\IT_illust.png
+  - name: remastered\menu\es\title\title\bin\title_n.l2d\IT_illust.png
+  - name: remastered\menu\fr\title\title\bin\title_n.l2d\IT_illust.png
+  - name: remastered\menu\it\title\title\bin\title_n.l2d\IT_illust.png
+  - name: remastered\menu\en\title\title\bin\title_n.l2d\JP_illust.png
+  - name: remastered\menu\de\title\title\bin\title_n.l2d\JP_illust.png
+  - name: remastered\menu\es\title\title\bin\title_n.l2d\JP_illust.png
+  - name: remastered\menu\fr\title\title\bin\title_n.l2d\JP_illust.png
+  - name: remastered\menu\it\title\title\bin\title_n.l2d\JP_illust.png
+  - name: remastered\menu\en\title\title\bin\title_n.l2d\SP_illust.png
+  - name: remastered\menu\de\title\title\bin\title_n.l2d\SP_illust.png
+  - name: remastered\menu\es\title\title\bin\title_n.l2d\SP_illust.png
+  - name: remastered\menu\fr\title\title\bin\title_n.l2d\SP_illust.png
+  - name: remastered\menu\it\title\title\bin\title_n.l2d\SP_illust.png
+  method: copy
+  source: 
+  - name: illust.png
